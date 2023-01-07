@@ -8,3 +8,5 @@ const getUser = async () => {
 };
 
 getUser();
+
+const data1 = "aaaa";
